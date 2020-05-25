@@ -52,5 +52,5 @@
 **Link(s) to work**
 
 1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
-2. [CS50](https://cs50.harvard.edu/x/2020/psets/1/cash/)
+2. [CS50 Week 1 C Problem Set Cash](https://cs50.harvard.edu/x/2020/psets/1/cash/)
 
