@@ -36,3 +36,21 @@
 **Link(s) to work**
 
 1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+### Day 47: Monday May 25, 2020
+
+**Today's Progress**: 
+- Continued with CS50, C, problem - Cash 
+- Completed fCC Basic JavaScript section of of JS Algorithms and Data Structures
+- Started fCC ES6 section of of JS Algorithms and Data Structures
+
+**New Concepts**: 
+- Object.freeze - to prevent data mutation
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+2. [CS50](https://cs50.harvard.edu/x/2020/psets/1/cash/)
+
