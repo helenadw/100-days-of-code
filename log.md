@@ -47,10 +47,30 @@
 **New Concepts**: 
 - Object.freeze - to prevent data mutation
 
+
 **Thoughts** 
 
 **Link(s) to work**
 
 1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
 2. [CS50 Week 1 C Problem Set Cash](https://cs50.harvard.edu/x/2020/psets/1/cash/)
+
+### Day 48: Tuesday May 26, 2020
+
+**Today's Progress**: 
+- Completed fCC ES6 section of of JS Algorithms and Data Structures
+- Started fCC Regular Expressions section of of JS Algorithms and Data Structures
+- Continued with CS50, Arrays
+
+
+
+**New Concepts**: 
+- Promises
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+2. [CS50 Week 2 Arrays](https://cs50.harvard.edu/x/2020/weeks/2)
 
