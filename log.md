@@ -66,6 +66,7 @@
 
 **New Concepts**: 
 - Promises
+- Regular expressions - .test(), .match(), flags (i, g), wildcard (.), character classes eg (b[aiu]g)
 
 **Thoughts** 
 
