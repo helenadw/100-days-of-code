@@ -60,18 +60,18 @@
 **Today's Progress**: 
 - Completed fCC ES6 section of of JS Algorithms and Data Structures
 - Started fCC Regular Expressions section of of JS Algorithms and Data Structures
-- Continued with CS50, Arrays
-
+- Started rebuilding portfolio site (using Gatsby, Sanity, Netlify)
+- Used Gatsby GraphQL API to display dynamic data on site
 
 
 **New Concepts**: 
 - Promises
 - Regular expressions - .test(), .match(), flags (i, g), wildcard (.), character classes eg (b[aiu]g)
+- GraphQL
 
 **Thoughts** 
 
 **Link(s) to work**
 
 1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
-2. [CS50 Week 2 Arrays](https://cs50.harvard.edu/x/2020/weeks/2)
 
