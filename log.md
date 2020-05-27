@@ -70,8 +70,33 @@
 - GraphQL
 
 **Thoughts** 
+- enjoy working with React - it is so fast and efficient 
+- feeling more natural to work from command line and fix isues that arise
 
 **Link(s) to work**
 
 1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+### Day 49: Wednesday May 27, 2020
+
+**Today's Progress**: 
+- Continued fCC Regular Expressions section of of JS Algorithms and Data Structures
+- Started CS50 Week 2, Arrays
+- Continued rebuilding portfolio site (using Gatsby, Sanity, Netlify)
+
+
+**New Concepts**: 
+- how to handle arrays in C
+- how arrays are stored in memory
+- efficient vs inefficient ways to use memory in programmes
+
+**Thoughts** 
+- interesting to see where C and JavaScript are similar and where they differ
+- a lot of the inbuilt functionality / user friendliness of JavaScript isn't present in C
+- so far, working in C is making me appreciate JavaScript!
+
+**Link(s) to work**
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+2. [CS50 Week 2, Arrays](https://cs50.harvard.edu/x/2020/weeks/2/)
 
