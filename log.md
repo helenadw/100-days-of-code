@@ -142,7 +142,7 @@
 
 **Today's Progress**: 
 - Continued fCC 'Basic Data Structures' section of of JS Algorithms and Data Structures
-- Continued CS50 Week 2, Arrays
+- Completed Problem Set 2: Readability from CS50 Week 2, Arrays
 - Continued rebuilding portfolio site (using Gatsby + Sanity)
 
 **New Concepts**: 
