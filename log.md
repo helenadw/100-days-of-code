@@ -138,3 +138,20 @@
 1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
 2. [CS50 Week 2, Arrays](https://cs50.harvard.edu/x/2020/weeks/2/)
 
+### Day 51: Monday June 1, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Data Structures' section of of JS Algorithms and Data Structures
+- Continued CS50 Week 2, Arrays
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+**Thoughts**: 
+- 
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+2. [CS50 Week 2, Arrays](https://cs50.harvard.edu/x/2020/weeks/2/)
