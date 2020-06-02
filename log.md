@@ -159,14 +159,16 @@
 ### Day 52: Monday June 2, 2020
 
 **Today's Progress**: 
-- Continued fCC 'Basic Data Structures' section of of JS Algorithms and Data Structures
+- Finished fCC 'Basic Data Structures' section of of JS Algorithms and Data Structures
+- Started fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
 - Continued rebuilding portfolio site (using Gatsby + Sanity)
 
 **New Concepts**: 
 - for...in statements
+- Object.keys()
 
 **Thoughts**: 
-- 
+
 
 **Link(s) to work**:
 
