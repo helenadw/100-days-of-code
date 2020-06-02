@@ -146,7 +146,24 @@
 - Continued rebuilding portfolio site (using Gatsby + Sanity)
 
 **New Concepts**: 
-- 
+- compiling and debugging in C
+
+**Thoughts**: 
+- the C programme was quite challenging to make - I was able to get to the correct logic via psuedocode fairly quickly, but then getting that into a syntactically correct programme that would first compile and then deliver the correct result took about 75% of the time. (1 hour on logic, 3 hours on syntax, debugging etc). 
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+2. [CS50 Week 2, Arrays](https://cs50.harvard.edu/x/2020/weeks/2/)
+
+### Day 52: Monday June 2, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Data Structures' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- for...in statements
 
 **Thoughts**: 
 - 
