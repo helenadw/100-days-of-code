@@ -156,7 +156,7 @@
 1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
 2. [CS50 Week 2, Arrays](https://cs50.harvard.edu/x/2020/weeks/2/)
 
-### Day 52: Monday June 2, 2020
+### Day 52: Tuesday June 2, 2020
 
 **Today's Progress**: 
 - Finished fCC 'Basic Data Structures' section of of JS Algorithms and Data Structures
@@ -167,10 +167,178 @@
 - for...in statements
 - Object.keys()
 
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+2. [CS50 Week 2, Arrays](https://cs50.harvard.edu/x/2020/weeks/2/)
+
+### Day 53: Wednesday June 3, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+### Day 54: Thursday June 4, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+
+### Day 55: Friday June 5, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+
+### Day 56: Monday June 8, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+### Day 57: Tuesday June 9, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+### Day 58: Wednesday June 10, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+
+### Day 59: Thursday June 11, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+
+### Day 60: Friday June 12, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
+
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+
+### Day 61: Sunday June 14, 2020
+
+**Today's Progress**: 
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- jQuery
+- schemas
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+
+### Day 62: Monday June 15, 2020
+
+**Today's Progress**: 
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+- Connected Sanity Studio to deployed site via web hook
+- Connected local code repository to github + connection to Netlify for continous deployment
+- Figured out how to use git / github from the command line
+- Fixed issues with portfolio site
+- Started reading about GSAP
+
+**New Concepts**: 
+- web hooks
+- GSAP
+
+**Thoughts**: 
+- getting comfortable working from the command line was a barrier, can appreciate now how easy and efficient it is once you get familiar with it
+
+**Link(s) to work**:
+
+1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
+2. [Portfolio site repo](https://github.com/hcdw/hcdw)
+
+### Day 63: Tuesday June 16, 2020
+
+**Today's Progress**: 
+- Continued fCC 'Basic Algorithm Scripting' section of of JS Algorithms and Data Structures
+- Continued rebuilding portfolio site (using Gatsby + Sanity)
+
+**New Concepts**: 
+- 
+
 **Thoughts**: 
 
 
 **Link(s) to work**:
 
 1. [fCC JS Data Structures and Algorithms](https://www.freecodecamp.org/learn)
-2. [CS50 Week 2, Arrays](https://cs50.harvard.edu/x/2020/weeks/2/)
+2. [Portfolio site repo](https://github.com/hcdw/hcdw)
+
